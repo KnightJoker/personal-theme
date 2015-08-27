@@ -6639,7 +6639,7 @@ a:hover,a:focus {
 	background-color: #019875;
 	background-size: cover;
 	width: 100%;
-	height: 490px;
+	height: 605px;
 	text-align: center
 }
 
@@ -6648,7 +6648,7 @@ a:hover,a:focus {
 	width: 150px;
 	height: 150px;
 	border-radius: 50%;
-	margin-top: 100px;
+	margin-top: 150px;
 	background: url(../image/2.jpg) center;
 	background-size: cover;
 	transition: 1s
@@ -6660,9 +6660,9 @@ a:hover,a:focus {
 
 .intr .peointr {
 	color: #fff;
-	font-size: 24px;
+	font-size: 30px;
 	font-weight: bold;
-	margin-top: 30px
+	margin-top: 50px
 }
 
 .title {
