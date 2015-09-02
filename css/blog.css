@@ -35,10 +35,21 @@ h6, .h6 {
  * Masthead for nav
  */
 
+.blog-title{
+  width: 350px;
+  height: 600px;
+  position:absolute;
+  display: inline-block;
+  font-weight: 50;
+  font-size: 600%;
+  color: black;
+  margin:0px 0px auto
+}
+
 .blog-masthead {
   background-color: #019875;
   position:fixed;
-  right:170px;
+  right:0px;
   width: 100%;
   z-index:999;
   /*-webkit-box-shadow: inset 0 -2px 5px rgba(0,0,0,.1);
