@@ -50,6 +50,14 @@ h6, .h6 {
   padding: 50px
 }
 
+.blog-article{
+  font-size: 15px;
+  color: black;
+  position: relative;
+  display: inline-block;
+  padding: 100px
+}
+
 .blog-masthead {
   background-color: #019875;
   position:fixed;
