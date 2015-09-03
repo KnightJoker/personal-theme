@@ -39,11 +39,15 @@ h6, .h6 {
   width: 350px;
   height: 600px;
   position:absolute;
-  display: inline-block;
-  font-weight: 50;
-  font-size: 600%;
-  color: black;
   margin:0px 0px auto
+}
+
+.blog-title-size{
+  font-size: 30px;
+  color: black;
+  position: relative;
+  display: inline-block;
+  padding: 50px
 }
 
 .blog-masthead {
