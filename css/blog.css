@@ -130,10 +130,25 @@ h6, .h6 {
   padding-bottom: 20px;
 }
 .blog-title {
-  margin-top: 30px;
+  margin-top: 10px;
   margin-bottom: 0;
   font-size: 60px;
   font-weight: normal;
+}
+
+.article-title{
+   font-size: 20px;
+  color: black;
+  position: relative;
+  right:10px;
+  top: 200px;
+  display: inline-block;
+}
+.about{
+  padding: 100px;
+}
+.contact{
+   padding-top: 600px;
 }
 .blog-description {
   font-size: 20px;
