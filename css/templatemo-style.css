@@ -222,6 +222,7 @@ h1, h2, h3, h4, h5 {
 .banner-bg {
   float: right;
   width: 77%;
+  background-color: #019875;
 }
 @media screen and (max-width: 1290px) {
   .main-content,
@@ -265,6 +266,7 @@ hr {
 
 .page-section {
   padding-top: 80px;
+  background-color: #019875;
 }
 
 /*---------------------------------------------------------
@@ -328,13 +330,13 @@ h3.profile-title {
   font-size: 24px;
 }
 .main-navigation li a:hover {
-  background: #5b6878;
+  background: #02C874;
 }
 .main-navigation li a.active {
-  background: #495461;
+  background: #019875;
 }
 .main-navigation li a.active:hover {
-  background: #495461;
+  background: #02C874;
 }
 
 .social-icons {
@@ -423,18 +425,16 @@ h3.profile-title {
 .banner-bg {
   padding: 260px 80px;
   position: relative;
-  background: url("../image/7.jpg");
-  background-repeat: no-repeat;
+  background-color: #019875;
   background-position: center;
   background-size: cover;
-  z-index: 2;
 }
 
 .banner-overlay {
   position: absolute;
   width: 100%;
   height: 100%;
-  background: rgba(95, 109, 126, 0.4);
+  background-color: #019875;
   top: 0;
   left: 0;
   z-index: 3;
