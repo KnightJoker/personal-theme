@@ -250,6 +250,7 @@ h4.widget-title {
   font-size: 16px;
   font-family: 'robotobold';
   text-transform: uppercase;
+  color:white;
   margin-bottom: 40px;
 }
 
@@ -268,6 +269,10 @@ hr {
   padding-top: 80px;
   background-color: #019875;
 }
+p.page-section{
+  color: white;
+}
+
 
 /*---------------------------------------------------------
  3. Header
