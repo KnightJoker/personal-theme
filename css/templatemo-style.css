@@ -266,13 +266,16 @@ hr {
 }
 
 .page-section {
-  padding-top: 80px;
+  padding-top: 30px;
   background-color: #019875;
 }
 p.page-section{
   color: white;
 }
-
+li.page-section{
+   padding-top: 1px;
+  color: white;
+}
 
 /*---------------------------------------------------------
  3. Header
